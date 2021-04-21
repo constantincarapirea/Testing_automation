@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+    <genre genreId="01" genreName="fantasy">
+        <book bookId="001">
+            <author>Robert Kiyosaki</author>
+            <name>Cel mai bogat om din babilon</name>
+            <publicationDate>1989</publicationDate>
+            <availability>true</availability>
+            <characters>
+                <character>Robul</character>
+                <character>Elena</character>
+                <character>Stampanul</character>
+            </characters>
+            <publisher>Iasi</publisher>
+        </book>
+        <book bookId="002">
+            <author>Kiyosaki</author>
+            <name>Cadranul Banilor</name>
+            <publicationDate>2001</publicationDate>
+            <availability>false</availability>
+            <characters>
+                <character>Sotia</character>
+                <character>Tinarul ambitios</character>
+                <character>Marinn</character>
+            </characters>
+            <publisher>Bucuresti</publisher>
+        </book>
+    </genre>
+    <genre genreId="02" genreName="tragedy">
+        <book bookId="003">
+            <author>Kiyosaki</author>
+            <name>Viitorul</name>
+            <publicationDate>1995</publicationDate>
+            <availability>true</availability>
+            <characters>
+                <character>Tatal bogat</character>
+                <character>Tata sarac</character>
+                <character>Tinarul</character>
+            </characters>
+            <publisher>Galati</publisher>
+        </book>
+    </genre>
+</books>

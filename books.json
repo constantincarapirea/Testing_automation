@@ -1,0 +1,38 @@
+{
+  "book2": {
+    "author": "Kiyosaki",
+    "name": "Cadranul Banilor",
+    "publicationDate": "2001",
+    "availability": "false",
+    "characters": [
+      "Sotia",
+      "Tinarul ambitios",
+      "Marinn"
+    ],
+    "publisher": "Bucuresti"
+  },
+  "book1": {
+    "author": "Robert Kiyosaki",
+    "name": "Cel mai bogat om din babilon",
+    "publicationDate": "1989",
+    "availability": "true",
+    "characters": [
+      "Robul",
+      "Elena",
+      "Stapanul"
+    ],
+    "publisher": "Iasi"
+  },
+  "book3": {
+    "author": "Kiyosaki",
+    "name": "Viitorul",
+    "publicationDate": "1995",
+    "availability": "true",
+    "characters": [
+      "Tatal bogat",
+      "Tata sarac",
+      "Tinarul"
+    ],
+    "publisher": "Galati"
+  }
+}

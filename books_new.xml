@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+    <genre genreId="02" genreName="tragedy">
+        <book bookId="003">
+            <author>Robert Kiyosaki</author>
+            <name>Tata bogat ,tata sarac</name>
+            <publicationDate>1997</publicationDate>
+            <availability>true</availability>
+            <characters>
+                <character>Tata Bogat</character>
+                <character>tata sarac</character>
+                <character>Tybalt</character>
+            </characters>
+            <publisher>First Quarto</publisher>
+        </book>
+    </genre>
+</books>
